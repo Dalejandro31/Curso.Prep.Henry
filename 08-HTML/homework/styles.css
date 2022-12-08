@@ -1,0 +1,49 @@
+		h1{
+			color: red;
+			display: flex;
+			justify-content: space-evenly;
+		}
+		h3{
+			
+			display: flex;
+			justify-content: space-evenly;
+		}
+		h4{
+			
+			display: flex;
+			justify-content: space-evenly;
+		}
+
+		.img{
+			width: 400px;
+		}
+		.divClass{
+			display: flex;
+			justify-content: center;
+			flex-direction: column;
+		}
+
+		#thirdDiv{
+			height: 600px;
+			width: 500;
+			background-color: blue;
+			padding: 50px;
+			border-color: red;
+			border-width: 5px;
+			border: solid;
+			margin: 0 auto;
+		}
+		#spanId{
+			font-size: 18px;
+			color: red;
+			margin: 50px;
+		}
+		body{
+			background-color: yellow;
+
+			
+		}
+
+
+
+		
